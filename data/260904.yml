@@ -7,7 +7,7 @@ about:
   head: 9a68d1e
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:54:26Z
+  collectedAt: 2026-09-04T20:46:49Z
 timeline:
   created: 2023-08-20
   lastCommit: 2025-09-17
@@ -81,5 +81,33 @@ total:
   openIssue: 2
   commit: 86
 ---
+path: /home/runner/.x-repo/github.com/ricklamers/shell-ai
+collectedAt: 2026-09-04T20:46:49Z
+loc:
+  Python:
+    code: 424
+    comments: 30
+    blanks: 66
+    files: 6
+  Makefile:
+    code: 8
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 91
+    blanks: 52
+    files: 2
+  Text:
+    code: 0
+    comments: 8
+    blanks: 0
+    files: 1
+total:
+  code: 468
+  comments: 129
+  blanks: 122
+  files: 10
 ---
 
